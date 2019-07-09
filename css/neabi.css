@@ -11,11 +11,15 @@
 }
 .neabi-1{
 		width: 179px;
-		height: 138px;
+		height: 140px;
 }
 #lead{
 	color: white; 
 }
 #text{
 	color: white;
+}
+.logo{
+		width: 188px;
+		height: 140px;
 }
